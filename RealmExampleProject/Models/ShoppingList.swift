@@ -18,6 +18,4 @@ class ShoppingList: Object, Identifiable {
     override class func primaryKey() -> String? {
         "id"
     }
-    
-    
 }
