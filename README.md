@@ -1,1 +1,1 @@
-This is the Realm Data Base Example Project
+This is Realm Data Base Example Project
